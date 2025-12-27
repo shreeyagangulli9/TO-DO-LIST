@@ -1,4 +1,4 @@
-# 💖 To-Do List for My Boyfriend
+# 💖 To-Do List 
 
 A cute web-based To-Do List application. This project is designed to help keep track of "tasks" with a clean, responsive UI and persistent storage.
 
